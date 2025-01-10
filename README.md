@@ -1,2 +1,6 @@
 # Army373Mod-JAR
-army3.me jar mod
+
+## Chức năng
+- Speed
+- Mua Item sll
+- Đang phát triển...
